@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Karleyna
-- 👀 I’m interested in programming in different languages. Currently studying C++ and C#
+- 👀 I’m interested in  in WEB - development on React
 - 🌱 I’m currently study at the higher college of Computer Science of NSU
 - 💞️ I’m looking to collaborate with anyone who can teach me :3
 - 📫 How to reach me: https://vk.com/kathycollins2000, https://t.me/YourJessie02, bondarenko.k11@gmail.com
